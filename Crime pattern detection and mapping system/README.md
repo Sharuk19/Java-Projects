@@ -34,7 +34,7 @@ This is a Java-based project that helps detect and analyze crime patterns using 
 
 ## Author
 
-**Jasmin Hari**
+**Sharuk Ahamed**
 
 ---
 
